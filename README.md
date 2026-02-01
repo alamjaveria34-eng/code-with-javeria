@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Javeria Alam]
+# Hi there! 👋 I'm Javeria Alam
 
 ### 🚀 Frontend Developer & UI/UX Designer
 I love bridging the gap between **design** and **code**. I specialize in turning complex **Figma** designs into functional, pixel-perfect websites.
@@ -19,7 +19,7 @@ Check out my pinned repositories below to see my work!
 ---
 
 ### 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app code-with-Javeria &show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app code-with-Javeria &show_icons=true&theme=radical)
 
 ---
 
